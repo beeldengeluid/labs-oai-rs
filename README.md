@@ -1,0 +1,1 @@
+this service implements the [OAI-RS](http://www.openarchives.org/rs/1.0/resourcesync) protocol

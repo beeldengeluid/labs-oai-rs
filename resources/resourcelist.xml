@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:rs="http://www.openarchives.org/rs/terms/">
+  <rs:md capability="resourcelist"/>
+  <url>
+    <loc>$server/$the-nquad-file</loc>
+    <lastmod>2017-03-09T14:00:48.696Z</lastmod>
+    <rs.md type="text/n-quads"/>
+  </url>
+</urlset>
